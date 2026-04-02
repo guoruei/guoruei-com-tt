@@ -121,8 +121,8 @@
 
 		<div class="mt-auto text-sm text-gray-300">
 			<div class="pt-1 pb-1">
-				<a href="https://cheerpx.io/" target="_blank">
-					<span>Powered by CheerpX</span>
+				<a href="https://mode.guoruei.org/" target="_blank">
+					<span>Powered by GUORUEI-ORG-MODE</span>
 					<img src="assets/cheerpx.svg" alt="CheerpX Logo" class="w-6 h-6 inline-block">
 				</a>
 			</div>
