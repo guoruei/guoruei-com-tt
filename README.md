@@ -4,7 +4,7 @@
 
 This repository hosts the source code for GUORUEI-COM-TT, a Linux virtual machine that runs in your browser.
 
-demo in [https://tt.guoruei.com](https://tt.guoruei.com)
+Demo in [https://tt.guoruei.com](https://tt.guoruei.com)
 
 <img src="/assets/welcome_to_WebVM_alpine_2024.png" width="90%">
 
