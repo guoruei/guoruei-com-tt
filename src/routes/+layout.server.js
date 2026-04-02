@@ -2,7 +2,6 @@ import { parse } from 'node-html-parser';
 import { read } from '$app/server';
 
 var posts = [
-	"https://www.guoruei.com",
 	"https://tt.guoruei.com/",
 ];
 
