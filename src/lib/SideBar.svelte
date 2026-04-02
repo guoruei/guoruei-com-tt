@@ -121,7 +121,7 @@
 
 		<div class="mt-auto text-sm text-gray-300">
 			<div class="pt-1 pb-1">
-				<a href="https://mode.guoruei.org/" target="_blank">
+				<a href="https://tt.guoruei.com/" target="_blank">
 					<span>Powered by TT</span>
 				</a>
 			</div>
