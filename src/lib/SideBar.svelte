@@ -7,8 +7,8 @@
 	import DiskTab from './DiskTab.svelte';
 	import AnthropicTab from './AnthropicTab.svelte';
 	import PostsTab from './PostsTab.svelte';
-	import DiscordTab from './DiscordTab.svelte';
 	import GitHubTab from './GitHubTab.svelte';
+	import DiscordTab from './DiscordTab.svelte';
 	import SmallButton from './SmallButton.svelte';
 	import { cpuActivity, diskActivity, aiActivity } from './activities.js';
 	const icons = [
